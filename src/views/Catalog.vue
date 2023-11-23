@@ -51,7 +51,7 @@ onMounted(()=> {
   flex-basis: 28%;
   margin: 8px;
   padding: 16px;
-  box-shadow: 0px 0px 14px 1px #e6e6e6;
+  box-shadow: 0 0 14px 1px #e6e6e6;
   cursor: pointer;
 }
 .product img{
